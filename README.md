@@ -1,0 +1,1 @@
+# Automated-SonarQube-Setup-with-PostgreSQL-and-Nginx-on-Ubuntu-22.04
