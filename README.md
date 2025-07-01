@@ -171,8 +171,8 @@ sudo certbot --nginx -d dhruv.meetparmar.com
 
 ## ✅ Final Step: Access in Browser
 
-- **HTTP:** http://dhruv.meetparmar.com  
-- **HTTPS (if enabled):** https://dhruv.meetparmar.com  
+- **HTTP:** http://meet.meetparmar.com
+- **HTTPS (if enabled):** https://meet.meetparmar.com  
 
 **Login:**  
 - Username: `admin`  
